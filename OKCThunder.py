@@ -190,10 +190,7 @@ def readData():
 #this is our main function
 def main():
     readData()
-    
-        
-                
-            
+         
 main()
 
 
